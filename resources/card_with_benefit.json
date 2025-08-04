@@ -1,0 +1,2327 @@
+[
+  {
+    "name": "신한카드 Mr.Life",
+    "url": "https://www.card-gorilla.com/card/detail/13",
+    "top_benefit": [
+      "[공과금] 공과금, 10%, 할인",
+      "[마트/편의점] 마트,편의점, 10%, 할인",
+      "[푸드] 식음료, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Discount Plan+",
+    "url": "https://www.card-gorilla.com/card/detail/2835",
+    "top_benefit": [
+      "[카페/디저트] 카페, 10%, 할인",
+      "[쇼핑] 쇼핑, 10%, 할인",
+      "[할인] 정기결제, 최대 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 처음(ANNIVERSE)",
+    "url": "https://www.card-gorilla.com/card/detail/2759",
+    "top_benefit": [
+      "[적립] 음식·생활·패션, 5%, 적립",
+      "[통신] 통신·구독·멤버십, 최대 20%, 적립",
+      "[적립] 소비관리 보너스, 매월 최대 1만P"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep Oil",
+    "url": "https://www.card-gorilla.com/card/detail/39",
+    "top_benefit": [
+      "[주유] 4개정유사, 10%, 할인",
+      "[자동차/하이패스] 차량서비스, 10%, 할인",
+      "[생활] 편의점/커피/택시, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Air One",
+    "url": "https://www.card-gorilla.com/card/detail/466",
+    "top_benefit": [
+      "[대한항공] 국내/해외 1,000원당, 1마일, 적립",
+      "[공항] 항공/면세, 2배, 적립",
+      "[해외이용] 해외, 2배, 적립"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 Point Plan",
+    "url": "https://www.card-gorilla.com/card/detail/2666",
+    "top_benefit": [
+      "[적립] 국내 가맹점, 최대 3%, 적립",
+      "[적립] 주말 외식비, 1천 포인트, 적립",
+      "[적립] 도시가스/전기요금, 1천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Point Plan+",
+    "url": "https://www.card-gorilla.com/card/detail/2731",
+    "top_benefit": [
+      "[적립] 국내 결제금액, 최대 3%, 적립",
+      "[푸드] 주말 외식비, 1천 포인트, 적립",
+      "[디지털구독] OTT, 최대 2천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The BEST-X",
+    "url": "https://www.card-gorilla.com/card/detail/2807",
+    "top_benefit": [
+      "[적립] 기본 리워드, 1%, 적립(마이신한포인트형)",
+      "[항공마일리지] 기본 리워드, 1,500원 당 1마일, 적립(스카이패스형)",
+      "[바우처] 연 1회, 최대 25만원, 기프트 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The BEST-F",
+    "url": "https://www.card-gorilla.com/card/detail/37",
+    "top_benefit": [
+      "[할인] 캐시백형, 1%, 캐시백",
+      "[대한항공] 대한항공형, 1,500원/1마일, 적립",
+      "[바우처] 기프트옵션, 1회/연, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Edu Plan+",
+    "url": "https://www.card-gorilla.com/card/detail/2735",
+    "top_benefit": [
+      "[학원] 학원비, 최대 10%, 캐시백",
+      "[대형마트] 3대 할인점, 1%, 캐시백",
+      "[영화] 메가박스, 7천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "K-패스 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2690",
+    "top_benefit": [
+      "[교통] 대중교통, 10%, 할인",
+      "[간편결제] 간편결제, 5%, 할인",
+      "[할인] 생활 부문, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 RPM+ Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/16",
+    "top_benefit": [
+      "[주유소] 모든주유소, 40~150P/L, 적립",
+      "[충전소] 모든충전소, 10~50P/L, 적립",
+      "[모든가맹점] 모든가맹점, 0.2~2%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep On Platinum+",
+    "url": "https://www.card-gorilla.com/card/detail/41",
+    "top_benefit": [
+      "[간편결제] 국내 온라인, 10%, 할인",
+      "[생활] 4대 편의점, 20%, 할인",
+      "[항공권] 항공권, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "메리어트 본보이™ 더 베스트 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/716",
+    "top_benefit": [
+      "[호텔] 메리어트 참여호텔, 무료숙박권, 제공",
+      "[호텔] 메리어트 참여호텔 이용시, 5P/1천원, 적립",
+      "[멤버십포인트] 메리어트 본보이™ 멤버십, 골드엘리트, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "티머니 Pay & GO 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2386",
+    "top_benefit": [
+      "[대중교통] 버스, 지하철, 30%, 할인",
+      "[교통] 고속버스, 택시, 20%, 할인",
+      "[통신] 이동통신요금, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 구독 좋아요",
+    "url": "https://www.card-gorilla.com/card/detail/2453",
+    "top_benefit": [
+      "[디지털구독] 디지털구독, 100%, 할인",
+      "[통신] 정기결제 자동이체, 1천원, 할인",
+      "[생활] 생활 서비스, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "알리익스프레스 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2831",
+    "top_benefit": [
+      "[쇼핑] 알리익스프레스, 10%, 할인",
+      "[할인] 음식점·카페·배달앱, 10%, 할인",
+      "[해외] 해외, 1%, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The CLASSIC+",
+    "url": "https://www.card-gorilla.com/card/detail/15",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일, 적립",
+      "[아시아나항공] 1,000원당, 1마일, 적립",
+      "[PP] PP카드, 무료, 제공"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "네이버페이 라인프렌즈 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/651",
+    "top_benefit": [
+      "[네이버페이] 네이버 결제 시, 2%, 적립",
+      "[적립] 네이버 외, 0.5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Simple Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/21",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 1%, 캐시백",
+      "[생활] 생활밀착가맹점, 0.7%, 추가캐시백",
+      "[할인] 생활친화가맹점, 월 10회, 잔돈 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Simple+",
+    "url": "https://www.card-gorilla.com/card/detail/11",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.7%, 캐시백",
+      "[통신] 이동통신요금, 0.7%, 추가캐시백",
+      "[할인] 생활친화가맹점, 월 10회, 잔돈할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Taking",
+    "url": "https://www.card-gorilla.com/card/detail/477",
+    "top_benefit": [
+      "[선택형] 최다이용영역, 2%, 적립",
+      "[푸드] 푸드, 2%, 적립",
+      "[생활] 생활, 2%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 후불하이패스+ (하이패스 전용)",
+    "url": "https://www.card-gorilla.com/card/detail/884",
+    "top_benefit": [
+      "[자동차/하이패스] 하이패스 요금, 0.1%, 적립",
+      "[자동차/하이패스] 출퇴근시간대 통행료, 20~50%, 자동할인",
+      "[자동차/하이패스] 판교↔ 청계, 성남, 연계통행료, 면제"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The CLASSIC-Y",
+    "url": "https://www.card-gorilla.com/card/detail/8",
+    "top_benefit": [
+      "[선택형] Gift Option, 매년1회, 선택이용",
+      "[모든가맹점] 마이신한포인트, 0.7~5%, 적립",
+      "[주유소] GS칼텍스, 60원/L, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "토스페이 플러스 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2805",
+    "top_benefit": [
+      "[간편결제] 실물없는, 모바일, 단독카드"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 EVerywhere",
+    "url": "https://www.card-gorilla.com/card/detail/2435",
+    "top_benefit": [
+      "[충전소] 전기차 충전요금, 20~40%, 캐시백",
+      "[디지털구독] 디지털 구독서비스, 20%, 캐시백",
+      "[자동차] 주차앱, 5천원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Air Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/12",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일, 적립",
+      "[아시아나항공] 1,000원당, 1마일, 적립"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 국민행복",
+    "url": "https://www.card-gorilla.com/card/detail/712",
+    "top_benefit": [
+      "[디지털구독] 넷플릭스/유튜브, 50%, 할인",
+      "[배달앱] 배달앱, 10%, 할인",
+      "[어린이집] 어린이집/유치원, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Store",
+    "url": "https://www.card-gorilla.com/card/detail/43",
+    "top_benefit": [
+      "[쇼핑] 생활쇼핑가맹점, ~15%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 10%, 할인",
+      "[대형마트] 복합쇼핑몰/마트, 10%, 주말할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "메리어트 본보이™ 더 클래식 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2291",
+    "top_benefit": [
+      "[적립] 연간 기프트, 15,000P, 제공",
+      "[적립] 메리어트 본보이™ 포인트, 최대4P, 적립",
+      "[적립] 메리어트 본보이™ 멤버십, 엘리트, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Discount Plan",
+    "url": "https://www.card-gorilla.com/card/detail/2836",
+    "top_benefit": [
+      "[마트/편의점] 마트,편의점, 10%, 할인",
+      "[일반음식점] 카페,음식점, 10%, 할인",
+      "[할인] 공과금, 디지털구독·멤버십, 최대 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 SOL트래블",
+    "url": "https://www.card-gorilla.com/card/detail/2722",
+    "top_benefit": [
+      "[수수료우대] 해외 이용·ATM, 수수료, 면제",
+      "[해외이용] 자유로운 해외 결제, 환율 100%, 우대",
+      "[적립] 국내 이용금액, 최대 2%, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "싱가포르항공 크리스플라이어 더 베스트 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2592",
+    "top_benefit": [
+      "[항공마일리지] 연 1회, 1만 5천 마일리지, 적립",
+      "[항공마일리지] 1,500원당, 2마일리지, 적립",
+      "[공항라운지/PP] 공항라운지, 연 2회, 무료"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 YOLO ⓘ",
+    "url": "https://www.card-gorilla.com/card/detail/14",
+    "top_benefit": [
+      "[선택형] 6개가맹점, 할인율, 선택",
+      "[카페] 스타벅스, 쿠폰, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "#Pay 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2258",
+    "top_benefit": [
+      "[간편결제] 7대 간편결제, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "네이버페이 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/577",
+    "top_benefit": [
+      "[네이버페이] 전가맹점, 1%, 적립",
+      "[간편결제] 네이버페이결제시, 2%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The PREMIER GOLD EDITION (스카이패스)",
+    "url": "https://www.card-gorilla.com/card/detail/2090",
+    "top_benefit": [
+      "[대한항공] 1,500원당, 1마일리지, 적립",
+      "[호텔] 프리미어 호텔 서비스, 연 1회, 제공",
+      "[골프] 골프장, 연 2회, 그린피 무료"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 Eats More(이츠모아)",
+    "url": "https://www.card-gorilla.com/card/detail/2304",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 추가적립업종 건당, 최대 1,600P, 추가적립",
+      "[해외] 환전수수료, 면제, 서비스"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Unboxing",
+    "url": "https://www.card-gorilla.com/card/detail/687",
+    "top_benefit": [
+      "[온라인쇼핑] 온라인종합몰, 10%, 캐시백",
+      "[편의점] 편의점, 10%, 캐시백",
+      "[기타] 배송비 건당, 2,500원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 처음",
+    "url": "https://www.card-gorilla.com/card/detail/2694",
+    "top_benefit": [
+      "[쇼핑] 음식점·카페·편의점·온라인쇼핑, 5%, 적립",
+      "[생활] 생활·여행·패션, 5%, 적립",
+      "[통신] 정기결제 , 최대 20%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The BEST+",
+    "url": "https://www.card-gorilla.com/card/detail/993",
+    "top_benefit": [
+      "[바우처] Gift Option, 연 1회, 택 1",
+      "[대한항공] 항공, 마일리지 적립",
+      "[공항라운지] 공항라운지, 무료 이용"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 플리",
+    "url": "https://www.card-gorilla.com/card/detail/2371",
+    "top_benefit": [
+      "[할인] 국내 이용금액, 최대 0.9%, 결제일 할인",
+      "[해외] 해외 이용금액, 0.5%, 결제일 할인",
+      "[기타] 매주 1회, 할인 쿠폰, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 집",
+    "url": "https://www.card-gorilla.com/card/detail/889",
+    "top_benefit": [
+      "[생활] 주택임대료 최대, 1만5천원, 할인",
+      "[통신] 통신, 인터넷, 보안업체, 자동이체, 할인",
+      "[공과금/렌탈] 아파트관리비, 3천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "카카오뱅크 줍줍 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2858",
+    "top_benefit": [
+      "[할인] 카드 쓰면, 1%, 캐시백",
+      "[캐시백] 카드값 바로내면, 1%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "스타필드 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2873",
+    "top_benefit": [
+      "[쇼핑] 스타필드, 10%, 할인",
+      "[쇼핑] 신세계 계열사, 5%, 할인",
+      "[생활] 라이프, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 주거래 신용",
+    "url": "https://www.card-gorilla.com/card/detail/895",
+    "top_benefit": [
+      "[모든가맹점] 모든가맹점, 0.7%, 적립",
+      "[쇼핑] 쇼핑/해외, 1.3%, 추가적립",
+      "[생활] 생활가맹점, 3.3%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "LG U+ Bora 신한카드 Big Plus",
+    "url": "https://www.card-gorilla.com/card/detail/1390",
+    "top_benefit": [
+      "[통신] 통신요금 최대, 1만5천원, 할인",
+      "[LGU+] LG U+, 스마트할부, 제공",
+      "[주유] 현대오일뱅크, 40P/L, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The ACE BLUE LABEL",
+    "url": "https://www.card-gorilla.com/card/detail/2788",
+    "top_benefit": [
+      "[바우처] Gift Option, 3개 중 택 1",
+      "[병원] 의료비, 10%, 할인",
+      "[PP] 공항라운지, PP 서비스, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "New LG전자 베스트샵 PLUS 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1899",
+    "top_benefit": [
+      "[쇼핑] LG전자, 5~10%, 할인",
+      "[무이자할부] 베스트플러스, 최고 3%, 할부포인트 적립",
+      "[테마파크] 롯데월드, 50%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신세계 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/28",
+    "top_benefit": [
+      "[백화점] 신세계백화점, 5%, 할인",
+      "[생활] Life Care가맹점, 5%, 할인",
+      "[해외] 해외, 5%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한 후불 기후동행 신용카드",
+    "url": "https://www.card-gorilla.com/card/detail/2766",
+    "top_benefit": [
+      "[할인] 온라인, 10%, 할인",
+      "[할인] 오프라인, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Making",
+    "url": "https://www.card-gorilla.com/card/detail/476",
+    "top_benefit": [
+      "[선택형] DIY서비스, 17%, 적립",
+      "[쇼핑] 쇼핑, 1~5%, 적립",
+      "[푸드] 푸드, 1~5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 MY CAR",
+    "url": "https://www.card-gorilla.com/card/detail/693",
+    "top_benefit": [
+      "[자동차] 자동차 구매금액, 0.2%, 캐시백",
+      "[주유] 주유소, 80원/L, 할인",
+      "[자동차] 전기차 충전요금, 30%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "LG트윈스 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2526",
+    "top_benefit": [
+      "[경기관람] LG트윈스 홈경기, 3천원, 할인",
+      "[영화] CGV, 3천원, 현장할인",
+      "[테마파크] 테마파크, 30~50%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 B.Big(삑)",
+    "url": "https://www.card-gorilla.com/card/detail/10",
+    "top_benefit": [
+      "[대중교통] 대중교통, 200~600원, 할인",
+      "[택시] 택시, 10%, 할인",
+      "[기차] KTX , 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 알뜰More(알뜰모아)",
+    "url": "https://www.card-gorilla.com/card/detail/2467",
+    "top_benefit": [
+      "[통신] 알뜰폰요금 최대, 1만5천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "Haru(Hoshino Resorts)",
+    "url": "https://www.card-gorilla.com/card/detail/2855",
+    "top_benefit": [
+      "[해외이용] 일본 이용, 3.5%, 적립",
+      "[적립] 국내 이용, 1%, 적립",
+      "[리조트] 호시노리조트 계열, 최대 30%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "T우주 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2302",
+    "top_benefit": [
+      "[디지털구독] 우주패스 구독료, 최대9,900원, 캐시백",
+      "[쇼핑] 할인점/온라인쇼핑, 최대5%, 적립",
+      "[생활] 생활친화업종, 최대10%, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 KaPick",
+    "url": "https://www.card-gorilla.com/card/detail/2549",
+    "top_benefit": [
+      "[적립] 주중 서비스 요일별, 5%, 포인트 적립",
+      "[간편결제] 토/일 서비스, 월 최대 1만2천, 포인트 적립",
+      "[적립] 월간서비스, 10%, 포인트 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Globus",
+    "url": "https://www.card-gorilla.com/card/detail/2532",
+    "top_benefit": [
+      "[수수료우대] 해외 수수료, 1.18%, 할인",
+      "[기타] 국내 이용금액, 0.7%, 적립",
+      "[기타] 해외 이용금액, 1.7%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "11번가 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/490",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.5%, 적립",
+      "[적립] 11번가, 1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "CU Npay 카드",
+    "url": "https://www.card-gorilla.com/card/detail/2763",
+    "top_benefit": [
+      "[편의점] CU 편의점, 최대 20%, 할인",
+      "[적립] CU 편의점 외, 최대 5%, 적립",
+      "[편의점] CU 편의점, CU 멤버십, 서비스"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Edu",
+    "url": "https://www.card-gorilla.com/card/detail/26",
+    "top_benefit": [
+      "[학원] 교육업종, 5~10%, 캐시백",
+      "[공과금] 아파트관리비, 5,000원, 캐시백",
+      "[생활] 생활업종, 1%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Shopping",
+    "url": "https://www.card-gorilla.com/card/detail/18",
+    "top_benefit": [
+      "[쇼핑] 온.오프라인, 10%, 할인",
+      "[생활] 생활업종, 10%, 할인",
+      "[해외] 해외이용, 5%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "KT 가족만족 할부 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2741",
+    "top_benefit": [
+      "[통신] Super할부, 24개월, 연 5.9%",
+      "[통신] 통신요금, 월 최대 1만 5천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Cube Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/36",
+    "top_benefit": [
+      "[선택형] 선택서비스, 5%, 할인",
+      "[할인] 1천원미만의, 잔돈, 할인",
+      "[주유] 모든주유소, 60원/L, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The CLASSIC-S",
+    "url": "https://www.card-gorilla.com/card/detail/945",
+    "top_benefit": [
+      "[모든가맹점] 이용금액, 1%, 기본적립",
+      "[모든가맹점] 이용금액, 0.5%, 추가적립",
+      "[해외] 해외, 면세점, 2%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The Pet",
+    "url": "https://www.card-gorilla.com/card/detail/2747",
+    "top_benefit": [
+      "[동물병원] 전국 동물병원, 30%, 할인",
+      "[쇼핑] 펫 전용 쇼핑몰, 30%, 할인",
+      "[온라인쇼핑] 온라인 쇼핑몰, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 봄",
+    "url": "https://www.card-gorilla.com/card/detail/2511",
+    "top_benefit": [
+      "[캐시백] 전가맹점 최대, 0.5%, 캐시백",
+      "[교통] 대중교통 일 최대, 200원, 캐시백",
+      "[디지털구독] 디지털 구독 최대, 10,000원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "GS ALL 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2872",
+    "top_benefit": [
+      "[마트/편의점] GS리테일 결제, 최대 10%, 적립",
+      "[간편결제] GS Pay 결제, 추가 2%, 적립",
+      "[국내외가맹점] 국내외 가맹점, 0.1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "SPOTV NOW 신한카드 구독 좋아요",
+    "url": "https://www.card-gorilla.com/card/detail/2602",
+    "top_benefit": [
+      "[디지털구독] 디지털구독 월 한도 내, 100%, 할인",
+      "[할인] 정기결제 자동이체, 1,000원, 할인",
+      "[할인] 생활 서비스, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Once",
+    "url": "https://www.card-gorilla.com/card/detail/536",
+    "top_benefit": [
+      "[렌탈 ] 렌탈 자동이체, 최대 7천포인트, 적립",
+      "[공과금] 정기월납 자동이체, 최대 6천포인트, 적립",
+      "[생활] 디지털구독 정기결제, 최대 6천포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 LABE",
+    "url": "https://www.card-gorilla.com/card/detail/1006",
+    "top_benefit": [
+      "[바우처] 골프 기프트 옵션, 연 1회, 택 1",
+      "[대한항공] 항공 적립 최대, 3 마일리지, 적립",
+      "[골프] 골핑 or GDR, 할인, 서비스"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "건담 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2524",
+    "top_benefit": [
+      "[쇼핑] 건담베이스KR, 10%, 할인",
+      "[영화] CGV, 5,000원, 할인",
+      "[쇼핑] 쇼핑·다이닝·몰링, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "다이소 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/758",
+    "top_benefit": [
+      "[생활] 다이소, 30%, 할인",
+      "[카페] 영화, 20%, 할인",
+      "[편의점] 편의점, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Once Plus",
+    "url": "https://www.card-gorilla.com/card/detail/537",
+    "top_benefit": [
+      "[렌탈 ] 렌탈 자동이체, 최대 7천포인트, 적립",
+      "[생활] 디지털구독 정기결제, 최대 6천포인트, 적립",
+      "[적립] 커피/편의점/해외이용, 최대 8천포인트, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The Premium Pet",
+    "url": "https://www.card-gorilla.com/card/detail/2748",
+    "top_benefit": [
+      "[애완동물] 동물병원/펫쇼핑몰, 30%, 할인",
+      "[온라인쇼핑] 온라인 쇼핑몰, 10%, 할인",
+      "[바우처] Gift Option, 연간 1회, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "요기요 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/692",
+    "top_benefit": [
+      "[배달앱] 요기요, 20%, 할인",
+      "[배달앱] 요기요, 10%, 추가캐시백",
+      "[디지털구독] 정기결제건, 15%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "GS Prime 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2243",
+    "top_benefit": [
+      "[쇼핑] GS리테일, 2%, 적립",
+      "[적립] 일반가맹점, 0.3%, 적립",
+      "[무실적] 전월실적·적립한도, 제한 없음"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "IKEA(이케아) Family with 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/744",
+    "top_benefit": [
+      "[쇼핑] IKEA 매장, 10%, 할인",
+      "[쇼핑] 백화점/할인점, 5%, 할인",
+      "[편의점] 편의점, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "수소차 충전할인 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2480",
+    "top_benefit": [
+      "[충전소] 수소차 충전요금, 10%, 할인",
+      "[자동차] 주차장, 자동차 정비/세차, 10%, 할인",
+      "[마트/편의점] 할인점/편의점/배달앱, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 B.Big(마이펫 스노우볼 삑)",
+    "url": "https://www.card-gorilla.com/card/detail/487",
+    "top_benefit": [
+      "[대중교통] 대중교통, 200~600원, 할인",
+      "[택시] 택시, 10%, 할인",
+      "[기차] KTX, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 My TeenS",
+    "url": "https://www.card-gorilla.com/card/detail/2236",
+    "top_benefit": [
+      "[마트/편의점] GS25 기프티콘 최대, 6천원, 증정",
+      "[마트/편의점] GS25, 행사상품, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 YaY",
+    "url": "https://www.card-gorilla.com/card/detail/613",
+    "top_benefit": [
+      "[배달앱] 배달앱 최대, 30%, 적립",
+      "[온라인쇼핑] 온라인쇼핑 최대, 12,500포인트, 적립",
+      "[기타] 홈게임방, 10%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "CJ ONE 프리즘 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2598",
+    "top_benefit": [
+      "[드럭스토어] 올리브영, 10%, 적립",
+      "[푸드] 빕스/뚜레쥬스/CGV, 30%, 적립",
+      "[CJ ONE] 전가맹점 최대, 0.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "IKEA for Business with 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1198",
+    "top_benefit": [
+      "[인테리어] IKEA, 10%, 할인",
+      "[마트/편의점] 할인점, 5%, 할인",
+      "[모든가맹점] 모든가맹점, 0.3%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "메가쇼핑 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/905",
+    "top_benefit": [
+      "[마트/편의점] 메가마트, 1%, 적립",
+      "[모든가맹점] 모든가맹점, 0.5%, 적립",
+      "[교통] 대중교통, 3~5%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한라이프 THE PRIDE 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2606",
+    "top_benefit": [
+      "[보험사] 전용치아보험, 5%, 할인 적용",
+      "[병원/약국] GC헬스케어, 무료혜택, 제공",
+      "[할인] 의료·헬스·생활편의 서비스, 7%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Lesson Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/38",
+    "top_benefit": [
+      "[교육/육아] 학원/학습지/독서실, 5%, 할인",
+      "[문화센터] 체험/활동학습, 5%, 할인",
+      "[도서] 서적, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Love Platinum#",
+    "url": "https://www.card-gorilla.com/card/detail/1003",
+    "top_benefit": [
+      "[쇼핑] 백화점,할인점,쇼핑몰, 5%, 할인",
+      "[주유] GS칼텍스, 60원/L, 할인",
+      "[영화] 영화, 7천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 혼디모앙",
+    "url": "https://www.card-gorilla.com/card/detail/738",
+    "top_benefit": [
+      "[모든가맹점] 전 가맹점, 0.2%, 기본적립",
+      "[대형마트] 대형마트, 지역유통점 최대, 10%, 적립",
+      "[충전소] 전기차 충전소, 30%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "아모레퍼시픽 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/753",
+    "top_benefit": [
+      "[화장품] 아모레퍼시픽 뷰티포인트, 12%, 적립",
+      "[적립] 특별가맹점 뷰티포인트, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "GS칼텍스 신한카드 Shine",
+    "url": "https://www.card-gorilla.com/card/detail/35",
+    "top_benefit": [
+      "[주유] GS칼텍스, 60~100원/L, 할인",
+      "[교통] 버스/지하철/택시, 3~7%, 할인",
+      "[영화] 맥스무비 등, 1,500원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "L.PAY 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2267",
+    "top_benefit": [
+      "[적립] 국내/해외이용금액, 0.1%, 적립",
+      "[적립] 교통/롯데더드림영역, 1%, 적립",
+      "[적립] 롯데더드림영역, 최대6%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "LGE.COM 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2787",
+    "top_benefit": [
+      "[생활] LGE.COM, 플러스 서비스 신청",
+      "[생활] 생활 서비스 영역 최대, 5% 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "SOCAR 제휴 SOCAR 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/42",
+    "top_benefit": [
+      "[렌터카] SOCAR, 30%, 할인",
+      "[기차] KTX/SRT, 10%, 할인",
+      "[카페] 커피전문점, 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "대성학원 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2608",
+    "top_benefit": [
+      "[교육/육아] 대성학원·학원업종, 3~5%, 캐시백",
+      "[주유] GS칼텍스, 40원/L, 할인",
+      "[테마파크] 4대 놀이동산 최대, 50%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "더본 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1019",
+    "top_benefit": [
+      "[카페/디저트] 뺵다방, 30%, 할인",
+      "[편의점] 편의점, 5%, 할인",
+      "[택시] 택시, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "리디 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1018",
+    "top_benefit": [
+      "[도서] 리디북스, 20%, 할인",
+      "[SPA브랜드] SPA, 10%, 할인",
+      "[영화] 영화, 4천원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신세계사이먼 프리미엄 아울렛 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2496",
+    "top_benefit": [
+      "[아울렛] 신세계아울렛, 10%, 할인",
+      "[기타] 신세계 계열사, 7%, 할인",
+      "[주유소] 주유, 40원/L, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한 햇살론카드",
+    "url": "https://www.card-gorilla.com/card/detail/2481",
+    "top_benefit": [
+      "[쇼핑] 생활쇼핑 가맹점, 7%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 10%, 할인",
+      "[쇼핑] 쇼핑몰/할인점, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The PREMIER GOLD EDITION (아시아나클럽)",
+    "url": "https://www.card-gorilla.com/card/detail/2097",
+    "top_benefit": [
+      "[아시아나항공] 1,000원당, 1마일리지, 적립",
+      "[호텔] 프리미어 호텔 서비스, 연 1회, 제공",
+      "[골프] 골프장, 연 2회, 그린피 무료"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 봄(도구리)",
+    "url": "https://www.card-gorilla.com/card/detail/2596",
+    "top_benefit": [
+      "[캐시백] 전가맹점 최대, 0.5%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백",
+      "[디지털구독] 디지털 구독 최대, 10,000원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 플리(산리오캐릭터즈)",
+    "url": "https://www.card-gorilla.com/card/detail/2491",
+    "top_benefit": [
+      "[할인] 국내 이용금액, 최대 0.9%, 결제일 할인",
+      "[해외] 해외 이용금액, 0.5%, 결제일 할인",
+      "[기타] 매주 1회, 할인 쿠폰, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위버스 신한카드(BTS)",
+    "url": "https://www.card-gorilla.com/card/detail/2240",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[적립] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "홈플러스 스페셜 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/865",
+    "top_benefit": [
+      "[대형마트] 홈플러스매장, 7%, 적립",
+      "[온라인쇼핑] 홈플러스온라인몰, 7%, 적립",
+      "[모든가맹점] 모든가맹점, 0.3%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "EDIYA 신한카드 Tasty",
+    "url": "https://www.card-gorilla.com/card/detail/24",
+    "top_benefit": [
+      "[카페] EDIYA COFFEE, 50%, 할인",
+      "[쇼핑] 쇼핑, 10%, 할인",
+      "[드럭스토어] 올리브영, Watsons, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "LG BEST SHOP 486 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2497",
+    "top_benefit": [
+      "[기타] 장기할부 혜택, 연 6.5%, 수수료",
+      "[기타] 할부이용 시, 11,000원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "Paydays 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2328",
+    "top_benefit": [
+      "[모든가맹점] 국내·외 전 가맹점, 0.6%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "Z:IN 인테리어 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1184",
+    "top_benefit": [
+      "[인테리어] Z:IN, 장기할부, 수수료 혜택",
+      "[인테리어] Z:IN, 할부캐시백, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "넥센타이어 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2870",
+    "top_benefit": [
+      "[렌터카] 넥센타이어 렌탈, 최대 2만원, 결제일 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "넷마블 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/1887",
+    "top_benefit": [
+      "[게임] 앱스토어, 10%, 할인",
+      "[편의점] 편의점, 10%, 할인",
+      "[영화] CGV, 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "땡겨요 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2331",
+    "top_benefit": [
+      "[배달앱] 땡겨요앱 이용시, 10%, 포인트 적립",
+      "[마트/편의점] 편의점 이용시, 5%, 포인트 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "마이 홈플러스 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/478",
+    "top_benefit": [
+      "[대형마트] 홈플러스포인트, 1.2%, 적립",
+      "[기타] 생활친화가맹점, 잔돈할인, 서비스",
+      "[영화] YES24, 인터파크, 영화예매할인, 서비스"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "모바일 Tmoney 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/30",
+    "top_benefit": [
+      "[교통] 모바일 Tmoney App, 20%, 할인",
+      "[카페/디저트] 스타벅스, 50%, 할인",
+      "[통신] 통신요금, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "베베쿡 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2488",
+    "top_benefit": [
+      "[기타] 베베쿡, 10%, 할인",
+      "[쇼핑] 할인점/백화점 /마켓컬리, 5%, 할인",
+      "[쇼핑] 커피/잡화/온라인서점, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신세계 The BLOSSOM 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2495",
+    "top_benefit": [
+      "[백화점] 신세계백화점, 7%, 할인",
+      "[기타] 신세계 계열사, 5%, 할인",
+      "[생활] 생활/쇼핑, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 23.5°",
+    "url": "https://www.card-gorilla.com/card/detail/7",
+    "top_benefit": [
+      "[대중교통] 버스,지하철, 200원, 할인",
+      "[적립] 마이신한포인트 , 1%, 적립",
+      "[카페] 스타벅스, 4,000원, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 All Pass",
+    "url": "https://www.card-gorilla.com/card/detail/31",
+    "top_benefit": [
+      "[고속버스] 고속/시외버스, 30~10%, 할인",
+      "[교통] 지하철/시내버스/택시, 10%, 할인",
+      "[카페/디저트] 커피전문점, 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Always FAN",
+    "url": "https://www.card-gorilla.com/card/detail/23",
+    "top_benefit": [
+      "[간편결제] 신한 FAN페이, 5%, 할인",
+      "[편의점] 편의점, 10%, 할인",
+      "[드럭스토어] 올리브영, 10% , 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Applus",
+    "url": "https://www.card-gorilla.com/card/detail/2611",
+    "top_benefit": [
+      "[적립] 프로그램, iPhone for Life, 이용",
+      "[적립] Applus포인트, 0.2%, 적립",
+      "[적립] 프로그램 미이용시, 3%~5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Cube",
+    "url": "https://www.card-gorilla.com/card/detail/6",
+    "top_benefit": [
+      "[선택형] 선택서비스, 5%, 할인",
+      "[할인] 1천원미만의, 잔돈, 할인",
+      "[주유소] 모든주유소, 60원/L, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 D-day",
+    "url": "https://www.card-gorilla.com/card/detail/519",
+    "top_benefit": [
+      "[편의점] 편의점, 5%, 적립",
+      "[카페] 스타벅스, 2,000원, 할인",
+      "[공항라운지] 라운지, 무료, 입장"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep Dream",
+    "url": "https://www.card-gorilla.com/card/detail/32",
+    "top_benefit": [
+      "[적립] 모두드림, 0.7%, 적립",
+      "[생활] 더해드림, 2.1%, 적립",
+      "[생활] 챙겨드림, 3.5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep Dream Platinum+",
+    "url": "https://www.card-gorilla.com/card/detail/40",
+    "top_benefit": [
+      "[무실적] 모두드림, 최대 1.1%, 적립",
+      "[생활] 더해드림, 최대 3.3%, 적립",
+      "[생활] 챙겨드림, 최대 5.5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep Dream(모베러웍스)",
+    "url": "https://www.card-gorilla.com/card/detail/2295",
+    "top_benefit": [
+      "[적립] 모두드림, 0.7%, 적립",
+      "[생활] 더해드림, 2.1%, 적립",
+      "[생활] 챙겨드림, 3.5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep ECO",
+    "url": "https://www.card-gorilla.com/card/detail/518",
+    "top_benefit": [
+      "[생활] 기부포인트, 0.1%, 적립",
+      "[대중교통] 대중교통, 5%, 캐시백",
+      "[영화] CGV, 1천원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Eats More(곰표)",
+    "url": "https://www.card-gorilla.com/card/detail/2415",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 추가적립업종 건당, 최대 1,600P, 추가적립",
+      "[해외] 환전수수료, 면제, 서비스"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Hi-Point",
+    "url": "https://www.card-gorilla.com/card/detail/1",
+    "top_benefit": [
+      "[적립] 전국가맹점, 0.2~2.0%, 적립",
+      "[적립] 특정가맹점, 1~5%, 적립",
+      "[주유] 에이치디현대오일뱅크, 60원/L, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Lady",
+    "url": "https://www.card-gorilla.com/card/detail/3",
+    "top_benefit": [
+      "[백화점] 3대백화점, 5%, 할인",
+      "[패밀리레스토랑] 패밀리레스토랑, 20%, 할인",
+      "[테마파크] 놀이공원, 30~50%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Love",
+    "url": "https://www.card-gorilla.com/card/detail/2",
+    "top_benefit": [
+      "[백화점] 백화점/할인점, 5%, 할인",
+      "[카페/디저트] 스타벅스, 20%, 할인",
+      "[주유] GS칼텍스, 60원/L, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Noon",
+    "url": "https://www.card-gorilla.com/card/detail/25",
+    "top_benefit": [
+      "[점심] 점심, 30%, 할인",
+      "[카페/디저트] 커피전문점/제과점, 2,000원, 할인",
+      "[택시] 택시, 20%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 O2O",
+    "url": "https://www.card-gorilla.com/card/detail/19",
+    "top_benefit": [
+      "[간편결제] Pay결제, 2~5%, 할인",
+      "[통신] 이동통신, 10%, 할인",
+      "[카페] 스타벅스, 2,000원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Puzzle",
+    "url": "https://www.card-gorilla.com/card/detail/2231",
+    "top_benefit": [
+      "[모든가맹점] 국내외이용금액, 최대1.1%, 적립",
+      "[기타] 전월이용금액, 20만원, 이월서비스",
+      "[선택형] 기본/선택서비스팩, 최대3개, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 The CLASSIC-L",
+    "url": "https://www.card-gorilla.com/card/detail/33",
+    "top_benefit": [
+      "[할인] 캐시백형, 1%, 캐시백",
+      "[대한항공] 대한항공형, 1,500원/1마일, 적립",
+      "[아시아나항공] 아시아나항공형, 1,000원/1마일, 적립"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 The LADY CLASSIC",
+    "url": "https://www.card-gorilla.com/card/detail/943",
+    "top_benefit": [
+      "[바우처] Gift Option, 연 1회, 선택제공",
+      "[쇼핑] 쇼핑/육아/웰빙, 3~7%, 할인",
+      "[점심] 브런치, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 The More(더모아)",
+    "url": "https://www.card-gorilla.com/card/detail/678",
+    "top_benefit": [
+      "[적립] 전가맹점 결제금액, 1천원미만, 기본적립",
+      "[적립] 특별가맹점 결제금액, 1천원미만, 더블적립",
+      "[적립] 연간 적립포인트, 10%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 YOLO Tasty",
+    "url": "https://www.card-gorilla.com/card/detail/17",
+    "top_benefit": [
+      "[쇼핑] 쇼핑업종, 10%, 할인",
+      "[카페/디저트] 커피,베이커리, 20%, 할인",
+      "[영화] CGV, 5,000원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 래플(Raffle)",
+    "url": "https://www.card-gorilla.com/card/detail/2387",
+    "top_benefit": [
+      "[혜택 프로모션] 월 마다 최대, 7만P, 추첨적립",
+      "[혜택 프로모션] 분기 마다 최대, 30만P, 추첨적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 핏(Fit)",
+    "url": "https://www.card-gorilla.com/card/detail/2413",
+    "top_benefit": [
+      "[생활] 일상영역, 최대 4만p, 적립",
+      "[적립] Flex 영역, 10%, 기본 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "아시아나 신한카드 Air 1.5",
+    "url": "https://www.card-gorilla.com/card/detail/27",
+    "top_benefit": [
+      "[아시아나항공] 1,000원당, 1.5마일, 기본적립",
+      "[아시아나항공] 1,000원당, 3마일, 추가적립",
+      "[공항라운지] 국내, 공항라운지, 무료이용"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "알뜰교통카드",
+    "url": "https://www.card-gorilla.com/card/detail/742",
+    "top_benefit": [
+      "[대중교통] 대중교통/택시, 10%, 할인",
+      "[마트/편의점] 마트/편의점, 10%, 할인",
+      "[자동차/하이패스] 전기차 충전 최대, 50%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위메프페이 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/44",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.7%, 기본적립",
+      "[간편결제] 위메프페이, 2%, 특별적립",
+      "[소셜커머스] 위메프, ~2%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "위버스 신한카드(ENHYPEN)",
+    "url": "https://www.card-gorilla.com/card/detail/2248",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "위버스 신한카드(SEVENTEEN)",
+    "url": "https://www.card-gorilla.com/card/detail/2249",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "위버스 신한카드(TXT)",
+    "url": "https://www.card-gorilla.com/card/detail/2250",
+    "top_benefit": [
+      "[적립] 위버스샵, 4%, 적립",
+      "[할인] 하이브인사이트, 50%, 할인",
+      "[기타] Gift서비스, 연1회, 제공"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "제주신화월드 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2479",
+    "top_benefit": [
+      "[리조트] 제주신화월드 객실, 최대 15%, 할인",
+      "[쇼핑] 신세계사이먼 프리미엄, 1만5천원, 할인",
+      "[생활] 생활 영역, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "카카오뱅크 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/590",
+    "top_benefit": [
+      "[할인] 결제하는만큼, 최대5만원, 캐시백",
+      "[배달앱] 배달앱, 3천원, 캐시백",
+      "[수수료우대] 해외수수료, 전액, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "카카오페이 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/22",
+    "top_benefit": [
+      "[카카오페이] 카카오페이, 20%, 할인",
+      "[소셜커머스] 쿠팡, 10%, 할인",
+      "[카페] 스타벅스, 커피빈, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Dream 체크(미니언즈)",
+    "url": "https://www.card-gorilla.com/card/detail/646",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "카카오페이 신한 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/286",
+    "top_benefit": [
+      "[간편결제] 카카오페이, 2%, 적립",
+      "[교통] 대중교통, 3%, 적립",
+      "[OTT/영화/문화] CGV 최대, 3천원, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 SOL트래블 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2667",
+    "top_benefit": [
+      "[해외이용] 해외 이용, 수수료 면제",
+      "[공항라운지/PP] 더라운지, 무료, 입장",
+      "[할인] 해외 대중교통, 1%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Hey Young 체크",
+    "url": "https://www.card-gorilla.com/card/detail/618",
+    "top_benefit": [
+      "[대중교통] 대중교통, 5%, 캐시백",
+      "[영화] 영화, 5천원, 캐시백",
+      "[간편결제] 간편결제, 1%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 플리 체크(산리오캐릭터즈)",
+    "url": "https://www.card-gorilla.com/card/detail/2492",
+    "top_benefit": [
+      "[모든가맹점] 국내 이용금액, 최대 0.3%, 할인",
+      "[해외] 해외 이용금액, 0.2%, 할인",
+      "[기타] 매 월 2회, 할인쿠폰, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Deep Dream 체크",
+    "url": "https://www.card-gorilla.com/card/detail/281",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 On 체크(잔망루피)",
+    "url": "https://www.card-gorilla.com/card/detail/2379",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "네이버페이 신한카드 체크 S2",
+    "url": "https://www.card-gorilla.com/card/detail/2268",
+    "top_benefit": [
+      "[네이버페이] 네이버 최대, 2%, 적립",
+      "[적립] 네이버 외, 0.1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "K-패스 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2693",
+    "top_benefit": [
+      "[교통] 대중교통, 10%, 할인",
+      "[간편결제] 간편결제, 2%, 할인",
+      "[생활] 생활 부문, 2%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한 후불 기후동행 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/2767",
+    "top_benefit": [
+      "[할인] 온라인, 5%, 할인",
+      "[할인] 오프라인, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Point Plan 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2673",
+    "top_benefit": [
+      "[생활] 일상생활비, 0.2~1%, 적립",
+      "[배달앱] 주말 배달앱, 1천포인트, 적립",
+      "[편의점] 편의점, 5%포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Pick E 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2528",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[생활] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 주거래 체크",
+    "url": "https://www.card-gorilla.com/card/detail/284",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.3%, 적립",
+      "[쇼핑] 쇼핑, 해외가맹점, 0.7%, 추가적립",
+      "[통신] 생활가맹점, 1.7%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 하이패스(전용) 체크",
+    "url": "https://www.card-gorilla.com/card/detail/391",
+    "top_benefit": [
+      "[교통] 하이패스요금, 0.1%, 적립",
+      "[교통] 통행료, 20%, 자동할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "FANtastic S 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/278",
+    "top_benefit": [
+      "[간편결제] 간편결제(FAN페이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 SOL트래블 J체크",
+    "url": "https://www.card-gorilla.com/card/detail/2847",
+    "top_benefit": [
+      "[해외] 해외이용, 수수료, 면제",
+      "[쇼핑] 돈키호테, 스타벅스, 50%, 결제일 할인",
+      "[편의점] 일본 3대 편의점, 5%, 결제일 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 S-Line 체크",
+    "url": "https://www.card-gorilla.com/card/detail/294",
+    "top_benefit": [
+      "[적립] 전 가맹점, 0.2%~0.5%, 적립",
+      "[푸드] 요식업종, 5%, 할인",
+      "[교통] 버스,지하철, 5%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "GS칼텍스 신한카드 경차사랑 체크",
+    "url": "https://www.card-gorilla.com/card/detail/303",
+    "top_benefit": [
+      "[자동차] 경차, 유류세, 환급",
+      "[주유] GS칼텍스, 15원~30원/L, 할인",
+      "[보험] 자동차보험, 2만~3만원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 On 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2343",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 On 체크(쥬라기)",
+    "url": "https://www.card-gorilla.com/card/detail/2373",
+    "top_benefit": [
+      "[간편결제] 간편결제, 2%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "Point Plan 체크(SOL 모임)",
+    "url": "https://www.card-gorilla.com/card/detail/2830",
+    "top_benefit": [
+      "[생활] 일상 생활비, 최대 1%, 적립",
+      "[배달앱] 주말 배달앱, 1천 포인트, 적립",
+      "[편의점] 편의점, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "카카오페이 신한 춘식이 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2638",
+    "top_benefit": [
+      "[카카오페이] 카카오페이결제, 2%+2%, 적립",
+      "[편의점] 4대 편의점, 5%, 적립",
+      "[통신] 통신요금, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Pick I 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2527",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한 S-Choice체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/296",
+    "top_benefit": [
+      "[교통] 버스/지하철/택시, 10%, 할인(캐시백)",
+      "[카페] 커피전문점, 20%, 할인(캐시백)",
+      "[백화점] 백화점 , 10%, 할인(캐시백)"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Way 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2338",
+    "top_benefit": [
+      "[교통] 대중교통, 5%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 국민행복 체크",
+    "url": "https://www.card-gorilla.com/card/detail/713",
+    "top_benefit": [
+      "[디지털구독] 넷플릭스/유튜브, 50%, 할인",
+      "[배달앱] 배달앱, 5%, 할인",
+      "[어린이집] 어린이집/유치원, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "CJ ONE 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/279",
+    "top_benefit": [
+      "[CJ ONE] CJ ONE포인트, 5%, 추가적립",
+      "[영화] CGV, 7,000원, 캐시백",
+      "[카페] 투썸플레이스 , 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "다이소 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/759",
+    "top_benefit": [
+      "[생활] 다이소, 20%, 캐시백",
+      "[편의점] 편의점, 10%, 캐시백",
+      "[영화] 영화, 20%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Way 체크(최고심)",
+    "url": "https://www.card-gorilla.com/card/detail/2471",
+    "top_benefit": [
+      "[교통] 대중교통 최대, 5%, 적립",
+      "[생활] 생활편의 최대, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 플리(체크)",
+    "url": "https://www.card-gorilla.com/card/detail/2372",
+    "top_benefit": [
+      "[모든가맹점] 국내 이용금액, 최대 0.3%, 할인",
+      "[해외] 해외 이용금액, 0.2%, 할인",
+      "[기타] 매 월 2회, 할인쿠폰, 제공"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위버스 신한카드 체크(BTS)",
+    "url": "https://www.card-gorilla.com/card/detail/2244",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "카카오페이 신한 라이언 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2637",
+    "top_benefit": [
+      "[카카오페이] 카카오페이결제, 2%+2%, 적립",
+      "[카페] 커피전문점, 5%, 적립",
+      "[대중교통] 대중교통, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "GS Prime 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2589",
+    "top_benefit": [
+      "[쇼핑] GS리테일, 1%, 적립",
+      "[멤버십포인트] 일반가맹점, 0.1%, 적립",
+      "[무실적] 전월실적·적립한도, 제한 없음"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한 슈퍼SOL 체크",
+    "url": "https://www.card-gorilla.com/card/detail/638",
+    "top_benefit": [
+      "[모든가맹점] 모든가맹점, 0.3%, 적립",
+      "[적립] 생활가맹점, 총 2%, 적립",
+      "[적립] 쇼핑/해외, 총 1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Way 체크(쥬라기)",
+    "url": "https://www.card-gorilla.com/card/detail/2374",
+    "top_benefit": [
+      "[교통] 대중교통, 5%, 적립",
+      "[생활] 생활편의, 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "SOCAR 제휴 SOCAR 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/300",
+    "top_benefit": [
+      "[렌터카] SOCAR 결제, 10%, 할인",
+      "[영화] 영화예매, 10%, 할인",
+      "[기차] 철도 이용시, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 FANtastic S 체크(DRX)",
+    "url": "https://www.card-gorilla.com/card/detail/2478",
+    "top_benefit": [
+      "[간편결제] 간편결제(신한플레이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡, 티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Pick I 선불",
+    "url": "https://www.card-gorilla.com/card/detail/2547",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "KT 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/301",
+    "top_benefit": [
+      "[KT] KT통신요금, 5,000원, 캐시백",
+      "[편의점] GS25, 5%, 캐시백",
+      "[영화] CGV, 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "마이 홈플러스 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/479",
+    "top_benefit": [
+      "[대형마트] 홈플러스포인트, 0.6%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신세계 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/282",
+    "top_benefit": [
+      "[카페] 스타벅스, 500원, 할인",
+      "[소셜커머스] 쿠팡,티몬, 1%, 포인트적립",
+      "[테마파크] 롯데월드,서울랜드, 50%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한 Meme(밈) 카드",
+    "url": "https://www.card-gorilla.com/card/detail/2272",
+    "top_benefit": [
+      "[음원사이트] 음원사이트, 5%, 적립",
+      "[기타] 앱스토어, 5%, 적립",
+      "[편의점] 편의점, 5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 FANtastic S 체크(LoL)",
+    "url": "https://www.card-gorilla.com/card/detail/2426",
+    "top_benefit": [
+      "[간편결제] 간편결제(신한플레이), 15%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 10%, 캐시백",
+      "[카페] 스타벅스, 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 S-Line 체크(마이펫)",
+    "url": "https://www.card-gorilla.com/card/detail/647",
+    "top_benefit": [
+      "[적립] 모든가맹점, 0.2~0.5%, 적립",
+      "[푸드] 요식업종, 5%, 할인",
+      "[대중교통] 대중교통, 5%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위버스 신한카드 체크(SEVENTEEN)",
+    "url": "https://www.card-gorilla.com/card/detail/2247",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "11번가 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/491",
+    "top_benefit": [
+      "[적립] 국내외가맹점, 0.1%, 적립",
+      "[적립] 11번가, 0.5%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "EDIYA 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/309",
+    "top_benefit": [
+      "[카페] EDIYA, 30%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "JYP Fan’s EDM 체크",
+    "url": "https://www.card-gorilla.com/card/detail/644",
+    "top_benefit": [
+      "[공연/전시] 국내콘서트/공연, 5%, 캐시백",
+      "[음원사이트] 음원/스트리밍, 5%, 캐시백",
+      "[대중교통] 대중교통, 3%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "L.pay 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/645",
+    "top_benefit": [
+      "[적립] 국내/해외일시불, 0.1%, 적립",
+      "[쇼핑] 롯데더드림영역, 0.5%, 적립",
+      "[간편결제] L.pay결제시 최대, 2.5%, 추가적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "LG U+ 신한카드 Smart 체크",
+    "url": "https://www.card-gorilla.com/card/detail/302",
+    "top_benefit": [
+      "[LGU+] LG U+ 통신요금, 3,000원, 캐시백",
+      "[편의점] GS25, 5%, 캐시백",
+      "[영화] 맥스무비, 2,000원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "리디 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/306",
+    "top_benefit": [
+      "[도서] 리디북스, 10%, 할인",
+      "[영화] 영화예매, 10%, 할인",
+      "[패스트푸드] KFC, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Way 체크(미니언즈 여름)",
+    "url": "https://www.card-gorilla.com/card/detail/2585",
+    "top_benefit": [
+      "[대중교통] 대중교통, 최대 5%, 적립",
+      "[생활] 생활편의, 최대 2%, 적립",
+      "[해외] 해외 이용금액, 1.3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 봄(체크)",
+    "url": "https://www.card-gorilla.com/card/detail/2512",
+    "top_benefit": [
+      "[캐시백] 국내외 이용금액 최대, 0.3%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 처음(선불)",
+    "url": "https://www.card-gorilla.com/card/detail/2857",
+    "top_benefit": [
+      "[기타] 계좌가 없어도, 간편발급",
+      "[대중교통] 충전식(티머니), 교통카드, 기능",
+      "[기타] 매일 매일, 출석체크, 전용 혜택"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위버스 신한카드 체크(ENHYPEN)",
+    "url": "https://www.card-gorilla.com/card/detail/2246",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "투썸플레이스 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2342",
+    "top_benefit": [
+      "[카페] 투썸플레이스, 20%, 캐시백",
+      "[디지털구독] OTT서비스, 1천원, 캐시백"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "Deep On 체크",
+    "url": "https://www.card-gorilla.com/card/detail/639",
+    "top_benefit": [
+      "[모든가맹점] 국내가맹점, 0.2%, 적립",
+      "[해외이용] 해외가맹점, 0.5%, 적립",
+      "[디지털구독] 정기결제 최대, 2%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "LineageM 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/1807",
+    "top_benefit": [
+      "[게임] 앱스토어, 5%, 캐시백",
+      "[게임] 구글 플레이스토어, 5%, 캐시백",
+      "[카페] 스타벅스, 20%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "Paydays 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2337",
+    "top_benefit": [
+      "[모든가맹점] 국내·외 전 가맹점, 0.3%, 포인트 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "TEENS(틴즈) PLUS PONEY 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/683",
+    "top_benefit": [
+      "[영화] 영화, 2천원, 할인",
+      "[테마파크] 놀이공원, 50%, 할인",
+      "[푸드] 베이커리/패스트푸드, 5%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "ZEPETO 신한카드",
+    "url": "https://www.card-gorilla.com/card/detail/2375",
+    "top_benefit": [
+      "[모든가맹점] 전 가맹점, 최대 0.5%, 적립",
+      "[편의점] 편의점 결제, 5%, 적립"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "네이버페이 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/460",
+    "top_benefit": [
+      "[간편결제] 전가맹점, 1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "더본 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/307",
+    "top_benefit": [
+      "[카페] 빽다방, 20%, 할인",
+      "[일반음식점] 더본 모든매장, 5%, 할인",
+      "[영화] CGV, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "땡겨요 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2333",
+    "top_benefit": [
+      "[배달앱] 땡겨요 앱, 10%, 포인트 적립",
+      "[카페] 스타벅스, 2%, 포인트 적립",
+      "[편의점] 편의점, 2%, 포인트 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "땡겨요 신한카드 체크(라이더형)",
+    "url": "https://www.card-gorilla.com/card/detail/2334",
+    "top_benefit": [
+      "[모든가맹점] 전가맹점, 0.2%, 포인트 적립",
+      "[주유] 주유소, 0.2%, 포인트 추가 적립",
+      "[편의점] 편의점, 0.2%, 포인트 추가 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "메가쇼핑 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/906",
+    "top_benefit": [
+      "[마트/편의점] 메가마트, 0.5%, 적립",
+      "[마트/편의점] 메가마트, 0.2%, 추가적립",
+      "[모든가맹점] 모든가맹점, 0.1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "몰테일 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/311",
+    "top_benefit": [
+      "[해외직구] 몰테일, 3천원 , 캐시백",
+      "[해외이용] 해외전가맹점, 1.2%, 캐시백",
+      "[소셜커머스] 쿠팡,티몬, 9%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한 S20 Pink(핑크)체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/295",
+    "top_benefit": [
+      "[대중교통] 지하철/버스, 10%, 캐시백",
+      "[통신] 이동통신요금, 3,000원, 캐시백",
+      "[온라인쇼핑] 4대 온라인쇼핑몰, 7%, 캐시백"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한 S20 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/298",
+    "top_benefit": [
+      "[교통] 버스/지하철/택시, 10%, 캐시백",
+      "[통신] 이동통신요금, 2~3천원, 캐시백",
+      "[편의점] GS25, 2~7%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 4Tune 체크",
+    "url": "https://www.card-gorilla.com/card/detail/290",
+    "top_benefit": [
+      "[적립] 국내 모든 가맹점, 0.2%, 적립",
+      "[적립] 해외 모든 가맹점, 1%, 적립",
+      "[카페] 커피전문점, 10%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Deep Dream 체크(모베러웍스)",
+    "url": "https://www.card-gorilla.com/card/detail/2391",
+    "top_benefit": [
+      "[적립] 모두드림, 0.2%, 적립",
+      "[생활] 더해드림, 0.6%, 적립",
+      "[생활] 챙겨드림, 1.0%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 EV 체크",
+    "url": "https://www.card-gorilla.com/card/detail/299",
+    "top_benefit": [
+      "[기타] 전기차 충전, 30%, 할인",
+      "[대중교통] 대중교통, 5%, 할인",
+      "[보험사] 보험료, 30,000원, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Finnq(핀크) 체크",
+    "url": "https://www.card-gorilla.com/card/detail/698",
+    "top_benefit": [
+      "[적립] 핀크머니, 0.2%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Global Air 스카이패스 체크",
+    "url": "https://www.card-gorilla.com/card/detail/642",
+    "top_benefit": [
+      "[대한항공] 주중 3,000원 당, 1마일리지, 적립",
+      "[대한항공] 주말 1,500원 당, 1마일리지, 적립",
+      "[해외이용] 해외인출 1건당, US $3, 캐시백"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 Global Air 아시아나 체크",
+    "url": "https://www.card-gorilla.com/card/detail/643",
+    "top_benefit": [
+      "[아시아나항공] 주중 2,500원 당, 1마일리지, 적립",
+      "[아시아나항공] 주말 1,000원 당, 1마일리지, 적립",
+      "[해외이용] 해외인출 1건 당, US $3, 캐시백"
+    ],
+    "c_type_txt": "마일리지형"
+  },
+  {
+    "name": "신한카드 Global+ 체크",
+    "url": "https://www.card-gorilla.com/card/detail/641",
+    "top_benefit": [
+      "[모든가맹점] 국내가맹점, 0.2%, 캐시백",
+      "[대중교통] 대중교통, 2%, 캐시백",
+      "[해외] 해외가맹점, 1.2%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Global+ 체크 월리를찾아라",
+    "url": "https://www.card-gorilla.com/card/detail/2584",
+    "top_benefit": [
+      "[캐시백] 국내 전 가맹점, 0.2%, 캐시백",
+      "[대중교통] 대중교통, 2%, 캐시백",
+      "[해외] 해외 전 가맹점, 1.2%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 Pick E 선불",
+    "url": "https://www.card-gorilla.com/card/detail/2546",
+    "top_benefit": [
+      "[편의점] 편의점/커피, 10%, 적립",
+      "[멤버십포인트] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Pick E 체크(포켓몬스터)",
+    "url": "https://www.card-gorilla.com/card/detail/2599",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[생활] 사진·볼링·테니스·스키, 10%, 적립",
+      "[푸드] One Pick 맛집, 최대 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 Pick I 체크(포켓몬스터)",
+    "url": "https://www.card-gorilla.com/card/detail/2600",
+    "top_benefit": [
+      "[편의점] 편의점·커피, 10%, 적립",
+      "[디지털구독] 디지털 구독, 10%, 적립",
+      "[온라인쇼핑] One Pick 쇼핑몰, 3천 포인트, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "신한카드 봄 체크(도구리)",
+    "url": "https://www.card-gorilla.com/card/detail/2597",
+    "top_benefit": [
+      "[캐시백] 국내외 이용금액 최대, 0.3%, 캐시백",
+      "[대중교통] 대중교통 일 최대, 200원, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "신한카드 아이행복 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/292",
+    "top_benefit": [
+      "[병원] 병원/약국, 5%, 할인",
+      "[대형마트] 쇼핑, 5%, 할인",
+      "[통신] 통신비/도시가스, 5% , 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "아모레퍼시픽 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/2341",
+    "top_benefit": [
+      "[화장품] 아모레퍼시픽, 8%, 적립",
+      "[대형마트] 대형마트, 3%, 적립",
+      "[백화점] 백화점, 3%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "알뜰교통카드 S20 체크",
+    "url": "https://www.card-gorilla.com/card/detail/743",
+    "top_benefit": [
+      "[교통] 전국 지하철/버스/택시, 10%, 캐시백",
+      "[통신] 이동통신요금 최대, 3천원, 캐시백",
+      "[카페] 커피전문점, 20%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "요기요 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/308",
+    "top_benefit": [
+      "[푸드] 요기요, 15%, 할인",
+      "[카페/디저트] 이디야, 10%, 할인",
+      "[마트/편의점] CU, 10%, 할인"
+    ],
+    "c_type_txt": "할인형"
+  },
+  {
+    "name": "위버스 신한카드 체크(TXT)",
+    "url": "https://www.card-gorilla.com/card/detail/2245",
+    "top_benefit": [
+      "[적립] 위버스샵, 2%, 적립",
+      "[생활] 생활영역, 5%, 적립",
+      "[할인] 하이브인사이트, 25%, 할인"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "카카오페이 신한 콘 체크카드",
+    "url": "https://www.card-gorilla.com/card/detail/670",
+    "top_benefit": [
+      "[적립] 10회결제 때마다, 최대2만원, 적립",
+      "[배달앱] 땡겨요 앱 이용시, 최대6천원, 적립",
+      "[해외] 해외가맹점, 1%, 적립"
+    ],
+    "c_type_txt": "포인트형"
+  },
+  {
+    "name": "쿠팡 신한카드 체크",
+    "url": "https://www.card-gorilla.com/card/detail/283",
+    "top_benefit": [
+      "[쇼핑] 쿠팡캐시, 3%, 적립",
+      "[카페/디저트] 스타벅스, 10%, 캐시백"
+    ],
+    "c_type_txt": "할인형"
+  }
+]

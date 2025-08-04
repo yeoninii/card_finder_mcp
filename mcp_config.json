@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "card-mcp": {
+      "command": "/Users/a80128121/Desktop/mac_mini/project/ex_card/.venv/bin/python",
+      "args": [
+        "/Users/a80128121/Desktop/mac_mini/project/ex_card/mcp_card/mcp_server.py"
+      ]
+    }
+  }
+}
